@@ -1,2 +1,2 @@
 # IndicaSystem
-Indicati ERP
+Indicati System
