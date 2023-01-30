@@ -4,17 +4,17 @@
 /**
  * App current version
  */
-$config['app_version'] = '1.0';
+$config['app_version'] = '1.0.1';
 
 /**
  * Nome do sistema
  */
-$config['app_name'] = 'IndicaSys';
+$config['app_name'] = 'Indica System';
 
 /**
  * Descrição do sistema
  */
-$config['app_subname'] = 'ERP';
+$config['app_subname'] = 'Systema de Gerenciamento';
 
 
 /*
@@ -51,7 +51,7 @@ $config['base_url'] = 'enter_baseurl';
 | variable so that it is blank.
 |
 */
-$config['index_page'] = 'index.php';
+$config['index_page'] = '';
 
 /*
 |--------------------------------------------------------------------------
@@ -68,7 +68,7 @@ $config['index_page'] = 'index.php';
 |
 | WARNING: If you set this to 'PATH_INFO', URIs will always be URL-decoded!
 */
-$config['uri_protocol']     = 'REQUEST_URI';
+$config['uri_protocol']     = 'AUTO';
 
 /*
 |--------------------------------------------------------------------------
