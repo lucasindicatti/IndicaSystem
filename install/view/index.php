@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="<?php echo($settings['title']); ?>">
   <meta name="author" content="Rodrigo Ribeiro - me@rodrigo3d.com">
-  <link rel="shortcut icon" href="<?php echo $dashboard_url; ?>install/assets/images/favicon.ico" type="image/x-icon" />
+  <link rel="shortcut icon" type="image/png" href="<?= base_url(); ?>assets/img/favicon.png" />
 
   <title><?php echo($settings['title']); ?></title>
   <link rel='stylesheet' type='text/css' href='<?php echo $dashboard_url; ?>install/assets/css/bootstrap.min.css' />
