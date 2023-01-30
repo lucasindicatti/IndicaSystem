@@ -81,7 +81,7 @@
                                 </form>
                             </div>
                         </div>
-                        <div class="tab-pane" id="tab2">
+                        <div class="tab-pane active" id="tab2">
                             <div class="span12 well" style="padding: 1%; margin-left: 0">
                                 <div class="span11">
                                     <form id="formProdutos" action="<?php echo base_url(); ?>index.php/vendas/adicionarProduto" method="post">
