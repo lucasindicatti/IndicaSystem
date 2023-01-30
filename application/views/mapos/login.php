@@ -36,7 +36,7 @@ echo saudacao($login);
 // Irá retornar conforme o horário:
 ?></h1>
 
-<h2 class="h-two"> Ao Sistema IndicaSys</h2>
+<h2 class="h-two"> Ao Sistema Indica System</h2>
     <img src="<?php echo base_url() ?>assets/img/dashboard-animate.svg" class="left-login-image" alt="<?= $this->config->item('app_name') ?> Versão: <?= $this->config->item('app_version'); ?>">
 </div>
 <div id="loginbox">

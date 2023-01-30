@@ -1,6 +1,6 @@
 <div class="row-fluid">
     <div id="footer" class="span12"> <a class="pecolor" href="https://indicati.com.br" target="_blank">
-            <?= date('Y'); ?> &copy; Lucas Indicatti - IndicaSys - Versão:
+            <?= date('Y'); ?> &copy; Lucas Indicatti - Indica System - Versão:
       <?= $this->config->item('app_version'); ?></a></div>
 </div>
 <!--end-Footer-part-->
