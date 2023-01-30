@@ -22,7 +22,7 @@
                         <li class="active" id="tabProdutos"><a href="#tab2" data-toggle="tab">Produtos</a></li>
                     </ul>
                     <div class="tab-content">
-                        <div class="tab-pane active" id="tab1">
+                        <div class="tab-pane" id="tab1">
                             <div class="span12" id="divEditarVenda">
                                 <form action="<?php echo current_url(); ?>" method="post" id="formVendas">
                                     <?php echo form_hidden('idVendas', $result->idVendas) ?>
