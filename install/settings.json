@@ -1,5 +1,5 @@
 {
-	"title": "IndicaSys",
+	"title": "IndicaSys - Erp",
 	"extensions": [
 		"cURL",
 		"MySQLi",
