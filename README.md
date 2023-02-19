@@ -1,2 +1,2 @@
-# IndicaSystem
+# Indicati System
 Indicati System
